@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8ACB,100:2E86AB&height=180&section=header&text=Tanjim%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:1a0033,100:2d1b4e&height=180&section=header&text=Tanjim%20Ahmed%20%F0%9F%91%BB&fontSize=42&fontColor=9d4edd&animation=fadeIn&fontAlignY=35" alt="header banner" width="100%"/>
 
-<h1 align="center">Hi, I'm Tanjim Ahmed 👋</h1>
+<h1 align="center">👻 Hi, I'm Tanjim Ahmed 👻</h1>
 
 <p align="center">
-  Researcher working on AI, Machine Learning, Deep Learning, NLP & Cybersecurity — also a software developer & competitive programmer.
+  🦇 Researcher haunting the fields of AI, Machine Learning, Deep Learning, NLP & Cybersecurity — also a software developer & competitive programmer. 🦇
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F8ACB&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+%2B+NLP+Enthusiast;Cybersecurity+Researcher;Database+%26+System+Design;Competitive+Programmer" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=22&pause=1000&color=9d4edd&background=00000000&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Researcher+%F0%9F%91%BB;Deep+Learning+%2B+NLP+Enthusiast+%F0%9F%92%80;Cybersecurity+Researcher+%F0%9F%95%B8%EF%B8%8F;Database+%26+System+Design+%E2%9A%B0%EF%B8%8F;Competitive+Programmer+%F0%9F%A6%87" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 About Me
+### 🕸️ About Me
 
 - 🔬 Researcher exploring **AI, Machine Learning, Deep Learning, and NLP**
 - 🔐 Also researching **Cybersecurity**
@@ -33,7 +33,7 @@
 
 ---
 
-### 🔬 Research Interests
+### ⚰️ Research Interests
 
 - Artificial Intelligence & Machine Learning
 - Deep Learning
@@ -42,21 +42,21 @@
 
 ---
 
-### 🏗️ Core Strengths
+### 🕷️ Core Strengths
 
 - Database Design (relational schema design, normalization, query optimization)
 - System Design (scalable architecture, design patterns)
 
 ---
 
-### 🔧 Featured Project
+### 🔮 Featured Project
 
 **[MediAID — A Web-Based Medical Assistance System](https://github.com/TanjimAhmed06/MediAID-A-web-based-medical-assistance-system)**
 A PHP-based web application designed to assist users with medical information and support.
 
 ---
 
-### 🛠️ Tech Stack
+### 🎃 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -80,20 +80,20 @@ swap in whatever you actually use.
 
 ---
 
-### 📊 GitHub Stats
+### 🧟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanjimAhmed06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanjimAhmed06&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TanjimAhmed06&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanjimAhmed06&theme=dracula&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanjimAhmed06&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TanjimAhmed06&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🌙 Connect with Me
 
 - Codeforces: [_Tanjim_Ahmed_](https://codeforces.com/profile/_Tanjim_Ahmed_)
 - LeetCode: [tanjimbravo6](https://leetcode.com/u/tanjimbravo6/)
@@ -102,3 +102,5 @@ swap in whatever you actually use.
 <!--
 Add your email / LinkedIn / portfolio links above once you're ready to share them publicly.
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2d1b4e,50:1a0033,100:000000&height=100&section=footer" alt="footer banner" width="100%"/>
