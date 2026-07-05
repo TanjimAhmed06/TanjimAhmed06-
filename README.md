@@ -65,12 +65,18 @@ A PHP-based web application designed to assist users with medical information an
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-
+<!--
+Added HTML/CSS/JS and removed PostgreSQL per your request.
+TensorFlow / PyTorch / scikit-learn / MySQL are still guesses —
+swap in whatever you actually use.
+-->
 
 ---
 
@@ -93,3 +99,6 @@ A PHP-based web application designed to assist users with medical information an
 - LeetCode: [tanjimbravo6](https://leetcode.com/u/tanjimbravo6/)
 - GitHub: [@TanjimAhmed06](https://github.com/TanjimAhmed06)
 
+<!--
+Add your email / LinkedIn / portfolio links above once you're ready to share them publicly.
+-->
